@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.erzgebirgs-erlebnisreisen.de/sitemap.xml
